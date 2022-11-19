@@ -1,7 +1,6 @@
 import math
 
 # By Devraj Chudasama
-# Student number: 500975539
 
 # This is my crossword function that prints out a generated crossword given a list of words, L
 # It is composed of several other helper functions
